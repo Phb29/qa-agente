@@ -1,0 +1,8 @@
+# credenciais de cada um
+.env
+
+# evidências dos testes (vídeos, prints, dados de clientes)
+evidencias/
+
+node_modules/
+*.log
