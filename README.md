@@ -6,7 +6,8 @@ qualquer software e qualquer empresa.
 
 ## Sobre
 
-Criei este agente para usar no meu trabalho de QA na **Pacto Soluções**, a empresa em que trabalho hoje.
+Criei este agente na **Pacto Soluções**, onde trabalho hoje como **desenvolvedor**. A ideia é que ele
+teste os tickets sozinho, como um QA faria, sem precisar de um QA para cada teste.
 Esta versão pública vem **sem nenhum dado da empresa**: as regras de QA estão prontas, e tudo o que
 é de cada empresa (sistema, ambientes, fluxo do Jira, pessoas, repositórios) fica em modelos em
 branco para você preencher.
